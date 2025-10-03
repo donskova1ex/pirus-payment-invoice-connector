@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f56c8b35-6ccb-4e82-b2fb-e0d5ed6b7c75">
+  <name>ПК_ОшибкиОбменаСервер</name>
+  <synonym>
+    <key>ru</key>
+    <value>Ошибки обмена</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

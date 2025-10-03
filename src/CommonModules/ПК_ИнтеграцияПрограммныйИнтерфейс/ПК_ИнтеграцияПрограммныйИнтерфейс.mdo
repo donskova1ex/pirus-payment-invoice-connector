@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dd428da4-b151-40c8-8393-f8f70e32c3bf">
+  <name>ПК_ИнтеграцияПрограммныйИнтерфейс</name>
+  <synonym>
+    <key>ru</key>
+    <value>П к интеграция программный интерфейс</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6befce33-944d-4345-9f33-739d323245df">
+  <name>ПК_ПлатежныеПоручения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Платежные поручения</value>
+  </synonym>
+  <server>true</server>
+</mdclass:CommonModule>
